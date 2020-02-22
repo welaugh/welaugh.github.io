@@ -337,7 +337,7 @@ a.btn-white:focus, a.btn-white:hover {
     width: 100%;
 }
 #header {
-    background-image: url("imgs/homebgdarkfilter.png");
+    background-image: url("imgs/homebgdarkfilter.jpg");
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: 50% 10%;
@@ -355,7 +355,7 @@ a.btn-white:focus, a.btn-white:hover {
     margin-left: 15px;
 }
 #header-subpage {
-    background-image: url("imgs/homebgdarkfilter.png");
+    background-image: url("imgs/homebgdarkfilter.jpg");
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: 50% 20%;
