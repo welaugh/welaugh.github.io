@@ -574,23 +574,6 @@ a.allevents {
 }
 
 /*==========================
-        elm home teachers
-===========================*/
-
-.teacher-info {
-    -webkit-box-shadow: 0 3px 5px rgba(85, 85, 85, 0.2);
-    box-shadow: 0 3px 5px rgba(85, 85, 85, 0.2);
-    padding: 30px 35px;
-}
-.teacher-info > h3 {
-    font-size: 18px;
-    font-weight: 500;
-}
-.single-teacher img {
-    width: 100%;
-}
-
-/*==========================
         about
 ===========================*/
 .quotation {
@@ -710,7 +693,7 @@ th {
     padding-top: 150px;
 }
 #header {
-    background-image: url("imgs/homebgdarkfilter.png");
+    background-image: url("imgs/homebgdarkfilter.jpg");
     background-repeat: no-repeat; 
     background-size: cover;
     background-position: 50% 10%;
