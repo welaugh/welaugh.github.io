@@ -608,6 +608,17 @@ a.allevents {
     line-height: 35px;
     margin-bottom: 25px;
 }
+
+/*==========================
+            region info
+===========================*/
+.region-info p {
+    padding-bottom: 5px;
+    padding-left: 0px;
+    letter-spacing: 1px;
+    border-bottom: 0px solid #e6e6e6;
+}
+
 .single-help h4 {
     color: white;
     font-size: 18px;
