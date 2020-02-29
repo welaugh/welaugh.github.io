@@ -505,8 +505,10 @@ hr.header {
 }
 
 .aboutelm > h3 {
-    font-size: 24px;
-    padding-bottom: 20px;
+    font-size: 20px;
+    padding-top: 20px;
+	padding-left: 20px;
+	letter-spacing: 2px;
 }
 .aboutelm > p {
     font-size: 14px;
