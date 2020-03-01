@@ -394,10 +394,10 @@ hr.header {
 ===========================*/
 
 .project-info {
-    padding: 15px 20px;
-    min-height: 230px;
-    border: 1px solid #eeeeee;
-    background-color: white;
+    padding: 20px 20px;
+    min-height: 200px;
+    border: 1px solid #F5F5F5;
+    background-color: #F5F5F5;
 }
 .project-info > h3 {
     font-size: 20px;
