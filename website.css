@@ -448,7 +448,7 @@ hr.header {
     padding: 20px 20px;
 }
 .contact-info {
-    padding-left: 90px;
+    padding-left: 40px;
 }
 .contact-info > p > i {
     font-size: 16px;
@@ -724,6 +724,9 @@ th {
 }
 h2 {
     font-size: 24px;
+}
+.work-text h3 {
+    font-size: 17px;
 }
 .pt-80 {
     padding-top: 40px;
