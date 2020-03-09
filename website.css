@@ -220,14 +220,8 @@ li {
 .pb-200 {
     padding-bottom: 200px;
 }
-.pt-350 {
-    padding-top: 350px;
-}
-.pt-470 {
-    padding-top: 470px;
-}
-.pt-120 {
-    padding-top: 120px;
+.pt-10 {
+    padding-top: 10px;
 }
 .pt-40 {
     padding-top: 40px;
@@ -240,6 +234,12 @@ li {
 }
 .pt-120 {
     padding-top: 120px;
+}
+.pt-350 {
+    padding-top: 350px;
+}
+.pt-470 {
+    padding-top: 470px;
 }
 .ml-30 {
     margin-left: 30px;
