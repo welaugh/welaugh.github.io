@@ -447,7 +447,14 @@ hr.header {
     width: 72%;
     padding: 20px 20px;
 }
-
+.contact-info {
+    padding-left: 90px;
+}
+.contact-info > p > i {
+    font-size: 16px;
+    color: #555555;
+    padding-right: 20px;
+}
 
 /*==========================
             work
