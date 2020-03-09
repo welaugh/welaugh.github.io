@@ -778,7 +778,8 @@ blockquote {
     color: #aaaaaa;
     font-size: 14px;
     font-weight: 600;
-    margin-bottom: 31px;
+    margin-bottom: 30px;
+	margin-bottom: 30px;
 }
 .footer-info > p {
     font-size: 12px;
