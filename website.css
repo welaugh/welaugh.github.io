@@ -810,6 +810,11 @@ blockquote {
 .footer-info ul li a {
     color: #aaaaaa;
 }
+.footer-info ul li i {
+    font-size: 40px;
+    color: #aaaaaa;
+    padding-left: 10px;
+}
 .footer-bottom small {
     color: #aaaaaa;
     font-size: 12px;
