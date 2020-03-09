@@ -322,6 +322,9 @@ a.btn-white:focus, a.btn-white:hover {
 .dark-bg {
     background: #F5F5F5;
 }
+.donate-bg {
+    background: #71323D;
+}
 
 .black-bg {
     background: #1d2222;
@@ -452,6 +455,11 @@ hr.header {
 .work-text > h2 {
     color: #fff;
     font-size: 36px;
+}
+.work-text > h3 {
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 15px;
 }
 .work-text > p {
     color: #fff;
