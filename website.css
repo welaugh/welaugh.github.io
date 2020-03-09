@@ -478,7 +478,7 @@ hr.header {
             blog
 ===========================*/
 .blog-info {
-    padding: 35px 35px 10px 35px;
+    padding: 35px 35px 35px 35px;
     border: 1px solid #eeeeee;
     border-top: 5px solid #1F3445;
 }
