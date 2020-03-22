@@ -232,6 +232,9 @@ li {
 .pt-90 {
     padding-top: 90px;
 }
+.pt-150 {
+	padding-top: 150px;
+}
 .pt-120 {
     padding-top: 120px;
 }
@@ -712,20 +715,15 @@ th {
     font-size: 20px;
 }
 .post-heading h1 {
-    font-weight: 700;
-    color: white;
+font-family: "Lato", sans-serif;
     font-size: 40px;
     line-height: 1.2;
-    margin-top: 100px;
 }
 h2.subheading {
-    font-weight: 500;
-    color: white;
     font-size: 30px;
     margin: 10px 0px 30px;
 }
 .post-heading .postmeta {
-    color: white;
     font-size: 20px;
     font-weight: 300;
     font-style: italic;
