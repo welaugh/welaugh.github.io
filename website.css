@@ -729,9 +729,15 @@ h2.subheading {
     font-style: italic;
     font-family: Lora,'Times New Roman',serif;
 }
+.article h3 {
+	font-size: 36px;
+}
 .article p {
     font-size: 16px;
 	line-height: 40px;
+}
+.article img {
+    padding-bottom: 15px;
 }
 
 blockquote {
