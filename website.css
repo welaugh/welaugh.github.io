@@ -322,6 +322,9 @@ a.btn-white:focus, a.btn-white:hover {
 .theme-bg {
     background: #1F3445;
 }
+.emergency-bg {
+	background: #753D35;
+}
 .dark-bg {
     background: #F5F5F5;
 }
